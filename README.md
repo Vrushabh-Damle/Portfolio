@@ -1,4 +1,4 @@
-# 💼 Vrushabh Damle's Portfolio
+# 💼 Portfolio
 
 > A curated showcase of my work, experiments, and creative endeavors.
 
