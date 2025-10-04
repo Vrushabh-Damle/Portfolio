@@ -1,39 +1,36 @@
-# 💼 Portfolio
+# 💼 Vrushabh Damle's Portfolio
 
-> A curated showcase of my work and projects
-
-<br>
-
-## ✨ Overview
-
-This repository contains the source code for my personal portfolio — a digital space where I share my proof of work, experiments, and creative endeavors.
-
-<br>
-
-## 🔗 Live Site
-
-**Coming Soon** — Currently crafting something special
-
-<br>
-
-## 🛠️ Built With
-
-Modern web technologies focused on performance and aesthetics
-
-<br>
-
-## 📬 Connect
-
-Found something interesting? Let's connect and build together.
-
-<br>
+> A curated showcase of my work, experiments, and creative endeavors.
 
 ---
 
-<div align="center">
+## ✨ Overview
 
-**If this resonates with you, consider leaving a ⭐**
+This repository holds the source code for my personal digital portfolio. It's the central space where I document and share my **proof of work**, **projects**, and technical experiments.
 
-Made with ❤️ by Vrushabh Damle
+---
 
-</div>
+## 🔗 Live Site
+
+The live site is **Coming Soon!** I'm currently crafting something special and performant.
+
+---
+
+## 🛠️ Built With
+
+This portfolio is developed using **modern web technologies** focused on high performance and exceptional aesthetics.
+
+---
+
+## 📬 Let's Connect!
+
+Found something interesting or have an idea for a collaboration? Let's connect and build something great together.
+
+---
+
+<p align="center">
+  **If this resonates with you, I'd appreciate a star!**
+</p>
+<p align="center">
+  Made with ❤️ by Vrushabh Damle
+</p>
