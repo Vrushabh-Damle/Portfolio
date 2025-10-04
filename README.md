@@ -34,6 +34,6 @@ Found something interesting? Let's connect and build together.
 
 **If this resonates with you, consider leaving a ⭐**
 
-Made with care and attention to detail
+Made with ❤️ by Vrushabh Damle
 
 </div>
