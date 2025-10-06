@@ -3,38 +3,54 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with full of love and passion for building things. With hands-on experience in product ready projects, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, TypeScript, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `A creative developer who loves building beautiful and functional projects. I combine technical skills with artistic flair to create unique digital experiences.
+`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "09/09/2025 - Present",
+    role: "Software Engineer Intern",
+    company: "Cravita Technologies India Private Limited, Pune, Maharashtra",
+    description: `
+Selected for a 6-month structured internship program with training and live project development.
+Currently working on building and optimizing modern web applications that focus on performance and user experience. Involved in designing RESTful APIs for smooth and secure data flow while collaborating with teams to deliver reliable and high-quality software solutions.
+
+`,
+    technologies: [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Express.js",
+      "Next.js",
+      "MongoDB",
+      "PostgreSQL",
+    ],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "06/08/2024 - 06/02/2025",
+    role: "Backend Developer Intern",
+    company: "ByteUpRise, Nagpur, Maharashtra, India",
+    description: `Worked on designing and implementing scalable backend systems, focusing on building robust RESTful APIs and efficient data management solutions. Collaborated closely with cross-functional teams to deliver high-quality software while leveraging modern backend technologies for optimal performance.`,
+    technologies: [
+      "Node.js",
+      "TypeScript",
+      "Express.js",
+      "MongoDB",
+      "PostgreSQL",
+    ],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "01/01/2024 - 01/06/2024",
+    role: "Trainee ML Intern",
+    company: "SohamGlobal India Private Limited, Amravati, Maharashtra",
+    description: `Assisted in developing web applications and data-driven solutions, focusing on implementing efficient data storage and management strategies. Collaborated with product managers and cross-functional teams to prioritize features and enhance application performance, gaining hands-on experience in machine learning workflows.`,
+    technologies: ["Python", "Pandas", "NumPy", "MongoDB", "Scikit-learn"],
   },
 ];
 
