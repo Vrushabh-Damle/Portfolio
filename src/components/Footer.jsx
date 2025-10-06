@@ -1,4 +1,5 @@
 import { AiFillStar } from "react-icons/ai";
+import { motion } from "motion/react";
 export const Footer = () => {
   return (
     <div className="pb-4">
