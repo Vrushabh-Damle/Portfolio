@@ -1,5 +1,7 @@
 import { PROJECTS } from "../constants";
 import { motion } from "motion/react";
+import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
+
 export const Projects = () => {
   return (
     <div className="pb-4">
@@ -36,9 +38,23 @@ export const Projects = () => {
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4 "
             >
-              <h6 className="mb-2 font-semibold text-neutral-700">
-                {project.title}
-              </h6>
+              <div className="flex flex-wrap justify-between px-2">
+                <div className="mb-2 font-semibold text-neutral-700">
+                  {project.title}
+                </div>
+
+                <div className="cursor-pointer">
+                  <a
+                    href={project.githubLink}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="cursor-pointer hover:text-green-700 transition-colors text-neutral-900 text-xl "
+                  >
+                    <FaGithub />
+                  </a>
+                </div>
+              </div>
+
               <p className="mb-4 text-neutral-600">{project.description}</p>
 
               <div className="flex flex-wrap">
