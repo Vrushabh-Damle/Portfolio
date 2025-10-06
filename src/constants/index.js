@@ -1,7 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `A creative developer who loves building beautiful and functional projects. I combine technical skills with artistic flair to create unique digital experiences.
 `;
@@ -56,37 +55,44 @@ Currently working on building and optimizing modern web applications that focus 
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "🧠 Alzheimer – Your Second Brain",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Alzheimer is a Second Brain application that lets you collect and organize content from multiple sources — such as Twitter, YouTube, and Google Docs — into a centralized knowledge hub, Not only this even you can share your brain with others with just one link and a simple click. ",
+    technologies: [
+      "Tailwind",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Express.js",
+      "MongoDB",
+    ],
   },
   {
-    title: "Task Management App",
+    title: "🎓 Skillio – Course Selling Application",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Skillio is a full-stack course-selling platform designed to connect learners and instructors. The backend, built with Node.js, Express.js, and MongoDB, powers secure user authentication, course management, and payment processing. The frontend (in development) will offer an engaging interface for exploring, purchasing, and managing courses.",
+    technologies: ["Node.js", "Express.js", "MongoDB", "React.js"],
   },
+
   {
-    title: "Portfolio Website",
+    title: "🍔 FoodVilla – Food Delivery Web Application",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "FoodVilla is a responsive and visually appealing food delivery web application built with React and Tailwind CSS. It allows users to browse restaurants, explore menus, and place orders through an intuitive interface. The backend (in progress) will be developed using Node.js, Express.js, and MongoDB to enable real-time order management and secure data handling.",
+    technologies: [
+      "React.js",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+    ],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Pune, Maharashtra, India",
+  phoneNo: "8390949242",
+  email: "dwrushabh@gmail.com",
 };

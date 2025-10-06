@@ -9,7 +9,7 @@ export const Experience = () => {
         {EXPERIENCES.map((experience, index) => (
           <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
             <div className="w-full lg:w-1/4">
-              <p className="mb-2 mt-2 text-sm text-neutral-800">
+              <p className="mb-2 mt-2 text-sm text-neutral-700 font-semibold">
                 {experience.year}
               </p>
             </div>
