@@ -38,7 +38,7 @@ export const Projects = () => {
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4 "
             >
-              <div className="flex flex-wrap justify-between px-2">
+              <div className="flex flex-wrap justify-between">
                 <div className="mb-2 font-semibold text-neutral-700">
                   {project.title}
                 </div>
