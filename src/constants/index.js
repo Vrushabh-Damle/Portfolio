@@ -9,8 +9,8 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "09/09/2025 - Present",
-    role: "Software Engineer Intern",
+    year: "12/09/2025 - Present",
+    role: "Junior Software Engineer",
     company: "Cravita Technologies India Private Limited, Pune, Maharashtra",
     description: `
 Selected for a 6-month structured internship program with training and live project development.
